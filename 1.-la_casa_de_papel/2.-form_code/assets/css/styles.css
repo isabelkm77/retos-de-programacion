@@ -1,0 +1,42 @@
+    body {
+        background-image: url('../img/la-casa-de-papel.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;    
+        background-size: cover;
+        font-family:arial;
+    }
+
+    .container {
+        margin: 0 auto;
+        margin-top: 10%;
+        background: rgba(75, 68, 68, 0.5);
+        text-align: center;
+        height: 50%;
+        width: 50%;
+    }
+    .title {
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    input {
+        vertical-align:middle;
+        width: 70%;
+        padding: 5px;
+        border-radius: 3px;
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .button  {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-bottom: 10px;
+        color: white;
+    }
